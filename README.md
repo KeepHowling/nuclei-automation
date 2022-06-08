@@ -13,3 +13,6 @@ Si quieres monitorizar:
   
 Si quieres escanear varios dominios introdúcelos con espacios:  
 ``./nuclei-automation-ui.sh``
+
+Por:  
+Marina Jiali Villalta Cerezo
