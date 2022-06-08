@@ -2,7 +2,7 @@
 echo -e "\n\033[36m>>>\033[35m Nuclei-automation script \033[m\n";
 nuclei --update-templates --silent
 echo -e "\033[33m[!] Enter domain names seperated by 'space' \033[m" 
-read -p " ----->>>>>>>> " input
+read -p " --> " input
 for i in ${input[@]}
 do
 
